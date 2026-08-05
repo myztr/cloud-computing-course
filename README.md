@@ -14,7 +14,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- *Name:* Ronatay MArcho Jay
+- *Name:* Ronatay Marcho Jay
 - *Course/Section:* BSIT-4-K
 - *Instructor:* [JENKIELYN TORRES]
 - *School Year:* 2026–2027
